@@ -1,1 +1,1 @@
-console.log('JavaScript Connected!');
+const box = document.querySelectorAll('.box');
