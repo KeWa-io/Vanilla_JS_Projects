@@ -1,4 +1,11 @@
-const sounds = ['Zelda', 'Super-Mario', 'gasp', 'tada', 'victory', 'wrong'];
+const sounds = [
+  'Zelda',
+  'Super-Mario',
+  'Duck-Hunt',
+  'Top-Gun',
+  'Sonic',
+  'Ghostbusters',
+];
 
 sounds.forEach((sound) => {
   const btn = document.createElement('button');
